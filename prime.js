@@ -1,3 +1,5 @@
+// Adding a commient to the top 
+
 function isPrime(number){
     if(number < 2){
         return false;
