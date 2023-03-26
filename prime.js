@@ -14,4 +14,6 @@ function isPrime(number){
     return true;
 }
 
+// Adding a comment to the bottom
+
 isPrime(16);
